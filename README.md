@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JorgeAntonio
+- 👋 Hi, I’m Jorge Antonio
 - 👀 I’m interested in inprove my skills everyday. I like to learn something new everyday. 
 - 🌱 I’m currently learning Dart, Flutter and React.
 - 💞️ I’m looking to collaborate on Open Source proyects, like Flutter and Laravel.
