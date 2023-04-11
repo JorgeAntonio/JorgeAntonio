@@ -1,4 +1,6 @@
-###👋 Hi there, I'm Jorge Antonio
+### Hi there 👋 
+
+###I'm Jorge Antonio
 
 I'm a Web and mobile developer. 
 Flutter lover. 
