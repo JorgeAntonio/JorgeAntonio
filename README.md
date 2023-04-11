@@ -2,7 +2,7 @@
 
 ### I'm Jorge Antonio
 
-I'm a Web and mobile developer. 
+I'm a web and mobile developer. 
 Flutter lover. 
 Science fiction fan. 
 
