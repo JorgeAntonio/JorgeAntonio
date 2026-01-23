@@ -11,7 +11,7 @@
     <td width="60%" valign="top">
       <h1>Hi there, I'm Jorge Antonio (George) 👋</h1>
       <p>
-        <b>Full Stack Developer</b> specialized in building seamless mobile experiences with <b>Flutter</b> and scalable backends with <b>NestJS</b>.
+        <b>Full Stack Developer</b> specialized in building seamless mobile experiences with <b>Flutter</b>, modern web applications with <b>React/Next.js</b>, and scalable backends with <b>NestJS</b>.
       </p>
       <p>
         🔭 Currently working on: <b>Full Stack Architectures</b><br />
@@ -44,6 +44,16 @@
   <img src="https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-101010?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
+  <br /><br />
+
+  <!-- Frontend -->
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Astro-101010?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-101010?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Zod-101010?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  
   <br /><br />
 
   <!-- Backend -->
