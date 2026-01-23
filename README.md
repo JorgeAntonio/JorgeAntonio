@@ -66,6 +66,22 @@
 
 <br /><br />
 
+<!-- Pinned Projects -->
+<h2 align="center">🔥 Pinned Projects</h2>
+<div align="center">
+  <a href="https://github.com/JorgeAntonio/DeliveryApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeAntonio&repo=DeliveryApp&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/JorgeAntonio/dieweb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeAntonio&repo=dieweb&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/JorgeAntonio/RecipeApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeAntonio&repo=RecipeApp&theme=dark&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+
+<br /><br />
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=101010&height=100&section=footer" width="100%" />
