@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300/101010/FFFFFF?text=Jorge+Antonio+%7C+Full+Stack+Developer" alt="Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
 </div>
 
 <br />
@@ -33,46 +33,22 @@
 
 <br />
 
-<!-- Pinned Projects -->
-<h2 align="center">🔥 Pinned Projects</h2>
-<div align="center">
-  <a href="https://github.com/JorgeAntonio/DeliveryApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeAntonio&repo=DeliveryApp&theme=dark&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/JorgeAntonio/dieweb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeAntonio&repo=dieweb&theme=dark&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/JorgeAntonio/RecipeApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeAntonio&repo=RecipeApp&theme=dark&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
-<br />
-
 <!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  
-  <!-- Mobile -->
-  <h3>Mobile</h3>
-  <img src="https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-101010?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
-  <!-- Frontend -->
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Astro-101010?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-101010?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Zod-101010?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  
-  <!-- Backend -->
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/NestJS-101010?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Dart-101010?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Astro-101010?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-101010?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Zod-101010?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/NestJS-101010?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 0 10px;" />
+  </marquee>
 </div>
 
 <br />
