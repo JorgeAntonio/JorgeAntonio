@@ -51,10 +51,3 @@
   </marquee>
 </div>
 
-<br />
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=101010&height=100&section=footer" width="100%" />
-  <p>Made with ❤️ by <b>Jorge Antonio</b></p>
-</div>
