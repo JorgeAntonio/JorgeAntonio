@@ -19,12 +19,12 @@
         💬 Ask me about: <b>Dart, TypeScript, Mobile Dev</b><br />
         ⚡ Fun fact: <b>Science fiction fan</b>
       </p>
-      <a href="https://github.com/JorgeAntonio">
-        <img src="https://img.shields.io/badge/Contact-Get%20in%20touch-101010?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact" />
+      <a href="mailto:soporte.georgecoding@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Get%20in%20touch-101010?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
     <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JorgeAntonio&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JorgeAntonio&show_icons=true&theme=dark&hide_rank=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
