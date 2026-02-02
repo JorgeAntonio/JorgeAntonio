@@ -11,7 +11,7 @@
     <td width="60%" valign="top">
       <h1>Hi there, I'm Jorge Antonio (George) 👋</h1>
       <p>
-        <b>Full Stack Developer</b> specialized in building seamless mobile experiences with <b>Flutter</b>, modern web applications with <b>React/Next.js</b>, and scalable backends with <b>NestJS</b>.
+        <b>Full Stack Developer</b> specialized in building seamless mobile experiences with <b>Flutter</b>, modern web applications with <b>React/Next.js</b>, and scalable backends with <b>NestJS</b>[...]
       </p>
       <p>
         🔭 Currently working on: <b>Full Stack Architectures</b><br />
@@ -24,7 +24,7 @@
       </a>
     </td>
     <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JorgeAntonio&show_icons=true&theme=dark&hide_rank=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-ruby-seven-66.vercel.app/api?username=JorgeAntonio&show_icons=true&theme=dark&hide_rank=true&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -48,4 +48,3 @@
     <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 0 10px;" />
   </marquee>
 </div>
-
