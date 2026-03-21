@@ -1,10 +1,3 @@
-<!-- Banner -->
-<div align="center">
-  <img src="./assets/new-banner.png" alt="Banner" width="100%" />
-</div>
-
-<br />
-
 <!-- Intro & Stats Table -->
 <table border="0" width="100%">
   <tr>
