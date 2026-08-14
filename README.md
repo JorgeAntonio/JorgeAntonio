@@ -2,7 +2,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h1>Hi there, I'm Jorge Antonio (George) 👋</h1>
+      <h1>Hi there, I'm Jorge Antonio 👋</h1>
       <p>
         <b>Full Stack Developer</b> specialized in building seamless mobile experiences with <b>Flutter</b>, modern web applications with <b>React/Next.js</b>, and scalable backends with <b>NestJS</b>[...]
       </p>
